@@ -1,0 +1,26 @@
+{
+  "name": "kinganimelist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.7",
+    "@prisma/client": "^5.19.1",
+    "eslint-config-next": "^14.2.12",
+    "next": "^14.2.12",
+    "next-auth": "^4.24.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-youtube": "^10.1.0"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "prisma": "^5.19.1",
+    "tailwindcss": "^3.4.1"
+  }
+}
